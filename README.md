@@ -7,6 +7,8 @@ The course outline can be found in
 
 https://www.tertiarycourses.com.sg/artificial-intelligence-ai-human-resource.html
 
+https://www.tertiarycourses.com.my/artificial-intelligence-ai-human-resource-malaysia.html
+
 <p><strong>Module 1: Introduction to AI and Machine Learning</strong></p>
 <ul>
 <li>What is Machine Learning and AI</li>
