@@ -11,28 +11,27 @@ https://www.tertiarycourses.com.my/artificial-intelligence-ai-human-resource-mal
 
 <p><strong>Module 1: Introduction to AI and Machine Learning</strong></p>
 <ul>
-<li>What is Machine Learning and AI</li>
-<li>Latest news in AI</li>
-<li>Activity: Sentiment Analysis</li>
+<li>Overview of Machine Learning and AI</li>
+<li>Application of AI to H</li>
+<li>AI Based HR Companies and Startups</li>
+<li>Types of Machine Learning</li>
 <li>Machine Learning Methodology</li>
 </ul>
-<p><strong>Module 2: Predictive Modeling</strong></p>
+<p><strong>Module 2: Build Simple AI Systems for HR</strong></p>
 <ul>
-<li>AI Applications for Human Resouce</li>
-<li>Activity: Predictive Modeling for Job Offer</li>
+<li>Text Classification</li>
+<li>Image Recognition</li>
+<li>Pre-Interview Shortlisting System</li>
 </ul>
-<p><strong>Module 3: Classification Modeling</strong></p>
+<p><strong>Module 3: Build Simple AI Chatbots for HR</strong></p>
 <ul>
-<li>Using AI for Classification</li>
-<li>Activity: Predicting the Job Acceptance Rate</li>
+<li>What is AI Chatbot</li>
+<li>Build a Simple Chatbot with Scratch</li>
+<li>Build a Simple Chatbot with Dialogflow</li>
 </ul>
-<p><strong>Module 4: Improve Customer Service with Ai</strong></p>
+<p><strong>Module 4: Machine Learning With Orange</strong> </p>
 <ul>
-<li>Personalised Customer Service with AI</li>
-<li>Activity: Chatbot</li>
-<li>Overview of AI Powered Chatbot</li>
+<li>What is Orange</li>
+<li>Salary Predictive Model</li>
+<li>CV Text Classification</li>
 </ul>
-<p><strong>&nbsp;</strong></p>
-
-
-
