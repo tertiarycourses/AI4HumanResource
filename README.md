@@ -1,5 +1,5 @@
 # Artificial Intelligence for Human Resource
-## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
+## by [Tertiary Courses](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Artificial Intelligence for Human Resource](https://www.tertiarycourses.com.sg/artificial-intelligence-ai-human-resource.html) course. 
 
